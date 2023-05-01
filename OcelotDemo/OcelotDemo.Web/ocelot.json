@@ -21,7 +21,8 @@
         "Period": "10s",
         "PeriodTimespan": 1,
         "ClientWhitelist": []
-      }
+      },
+      "FileCacheOptions": { "TtlSeconds": 30 }
     }
   ],
   "GlobalConfiguration": {
